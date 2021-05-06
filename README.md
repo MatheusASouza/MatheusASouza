@@ -1,6 +1,24 @@
 # Hello! I'm Matheus Alves!
 
-## About me:
+><h1>About me:
 
- - Front-end enthusiast 👨‍💻
- - Studying Programming (IFSP) 📚
+
+```javascript
+var Matheus = {
+
+age: 20,
+
+country: 'Brazil',
+
+city: 'São Paulo, SP',
+
+stack: ['HTML','CSS','Javascript','MySQL'],
+
+interestedIn: ['Python', 'Flask', 'Django', 'React'],
+
+hobbies: [ 'Anime', 'Learning programming', 'Games', 'Music']
+
+};
+ ```
+ 
+{: .language-javascript}
