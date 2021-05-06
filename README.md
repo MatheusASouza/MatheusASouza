@@ -21,4 +21,3 @@ hobbies: [ 'Anime', 'Learning programming', 'Games', 'Music']
 };
  ```
  
-{: .language-javascript}
