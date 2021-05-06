@@ -12,9 +12,9 @@ country: 'Brazil',
 
 city: 'São Paulo, SP',
 
-stack: ['HTML','CSS','Javascript','MySQL'],
+stack: ['HTML','CSS','Javascript','PHP', 'JAVA','MySQL'],
 
-interestedIn: ['Python', 'Flask', 'Django', 'React'],
+interestedIn: ['Python', 'Angular', 'Django', 'React'],
 
 hobbies: [ 'Anime', 'Learning programming', 'Games', 'Music']
 
