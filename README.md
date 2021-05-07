@@ -30,3 +30,5 @@ hobbies: [ 'Anime', 'Learning programming', 'Games', 'Music']
 📚 I’m currently learning stack C with (IFSP);
 
 📚 Willing to learn more every day;
+
+📚 And I learn more ...
