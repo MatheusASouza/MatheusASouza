@@ -10,7 +10,7 @@ country: 'Brazil',
 
 city: 'São Paulo, SP',
 
-stack: ['HTML','CSS','Javascript','PHP', 'JAVA','MySQL'],
+stack: ['HTML','CSS','Javascript','PHP', 'JAVA','MySQL', 'C', 'Json', 'APIGEE'],
 
 interestedIn: ['Python', 'Angular', 'Django', 'React'],
 
