@@ -4,13 +4,13 @@
 ```javascript
 var Matheus = {
 
-age: 20,
+age: 22,
 
 country: 'Brazil',
 
 city: 'São Paulo, SP',
 
-stack: ['HTML','CSS','Javascript','PHP', 'JAVA','MySQL', 'C', 'Json', 'APIGEE'],
+stack: ['Full-Stack', 'API Developer'],
 
 interestedIn: ['Python', 'Angular', 'Django', 'React'],
 
@@ -32,10 +32,9 @@ hobbies: [ 'Anime', 'Learning programming', 'Games', 'Music']
 ### More about me:
 
 
-📚 Student and programming enthusiast;
+📚 I'm very curious;
 
-📚 I’m currently learning stack C with (IFSP);
+📚 I currently work with the development of REST APIs, using the APIGEE tool, Node.JS, Postman, among others;
 
 📚 Willing to learn more every day;
 
-📚 And I learn more ...
