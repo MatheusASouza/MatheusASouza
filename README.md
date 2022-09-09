@@ -1,5 +1,5 @@
 
-![banner](https://github.com/MatheusASouza/MatheusASouza/blob/main/Banner.png)
+![banner](https://github.com/MatheusASouza/MatheusASouza/blob/main/Banner marketing site estratégia digital roxo branco azul.png)
 
 ```javascript
 var Matheus = {
