@@ -23,6 +23,7 @@ hobbies: [ 'Anime', 'Learning programming', 'Games', 'Music']
 <a href="https://www.instagram.com/theusalveesx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusASouza&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusASouza)](https://github.com/MatheusASouza/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusASouza&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 .
