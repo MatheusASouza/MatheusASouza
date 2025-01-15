@@ -27,7 +27,7 @@ hobbies: [ 'Anime', 'Games', 'Music']
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusASouza&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
 
 .
